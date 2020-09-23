@@ -15,4 +15,5 @@ for (let i=1; i <= 200; i++)
     else
         console.log(i)
     //por ultimo le digo que me imprima la variable i que contiene los valores y como diria en el lol "EZ"
+    //a
 }
