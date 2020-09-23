@@ -14,6 +14,6 @@ for (let i=1; i <= 200; i++)
     //y los divisibles por 5 son aplicados con el buzz
     else
         console.log(i)
-    //por ultimo le digo que me imprima la variable i que contiene los valores y como diria en el lol "EZ"
+    //por ultimo le digo que me imprima la variable i que contiene los valores y asi de simple
     //a
 }
